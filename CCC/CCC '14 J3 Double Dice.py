@@ -1,3 +1,5 @@
+#Solution by Andrew Xing
+
 number = input()
 first_list = []
 second_list = []
