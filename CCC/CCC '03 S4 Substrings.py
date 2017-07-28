@@ -1,5 +1,6 @@
 #https://www.quora.com/Given-a-string-how-do-I-find-the-number-of-distinct-substrings-of-the-string
 #This guy gives a beautiful explanation ^^^
+#Code by Andrew Xing
 
 def longest_common_prefix(suffix1, suffix2):
   LCP = 0
