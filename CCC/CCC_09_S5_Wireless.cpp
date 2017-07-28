@@ -7,6 +7,8 @@
 //The tricky/annoying part of this question is the grid itself and finding the relationship between the
 //x and y value that is given to the ones that correspond to your own array.
 
+//If you're having trouble understanding this explanation, print the city_grid after every big chunk of code.
+
 #include <iostream>
 #include <math.h>  
 using namespace std;
