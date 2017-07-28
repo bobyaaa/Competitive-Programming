@@ -1,7 +1,11 @@
 //This is a 2D coordinate grid problem, my method of solving it was using a difference array.
 //You cannot brute force this problem and plot and fill each point inside the radius of wifi with the bitrate.
-//Instead, just plot two points, (positive) bitrate and (negative) bitrate, per row, and run your grid through a prefix sum array
+//Instead, just plot two points, (positive) bitrate and (negative) bitrate, per each row that's in the coffeeshop's wireless range (y-value)
+//and then run your grid through a prefix sum array and voila.
 //after you're done plotting all the points. Then find the max, and find the frequency of the max.
+
+//The tricky/annoying part of this question is the grid itself and finding the relationship between the
+//x and y value that is given to the ones that correspond to your own array.
 
 #include <iostream>
 #include <math.h>  
