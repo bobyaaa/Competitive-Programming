@@ -1,3 +1,4 @@
+#Solution by Andrew Huang
 n = input()
 
 for x in range(n):
