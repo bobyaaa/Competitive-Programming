@@ -1,3 +1,5 @@
+#Solution by Andrew Huang
+
 dice1 = input()
 dice2 = input()
 
