@@ -1,3 +1,4 @@
+#AC with pypy2, TLE with python
 import sys
 gates = int(sys.stdin.readline())
 planes = int(sys.stdin.readline())
