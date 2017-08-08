@@ -1,4 +1,10 @@
 # I guess we do it with stack?
+# Yeah, we'll do it with stack. We're going to count how many times the top value of the stack reaches 7000. 
+# If a hotel falls into the range of the minimum distance and the maximum distance from a hotel before, 
+# append it to the stack (can be more than one). Remove one hotel from the stack each loop, but save the value to find if there is any
+# hotels in front of it. Loop breaks when the stack is empty
+
+# Solution by Andrew Xing
 
 hotels = [0, 990, 1010, 1970, 2030, 2940, 3060, 3930, 4060, 4970, 5030, 5990, 6010, 7000]
 
