@@ -1,5 +1,5 @@
-# DMOJ-Solutions
-Don Mills Online Judge problem solutions. Trying to optimize readability and give full explanations where possible.
+# Competitive Programming
+Don Mills Online Judge and WCIPEG problem solutions. 
 
-Try your best on the problem and if you're stuck, don't be afraid to look at the solution. Don't copy pasta please!
+Harder problems (typically 10 points and above) will have their own explainations to go along with it.
 
