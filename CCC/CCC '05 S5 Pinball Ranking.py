@@ -1,4 +1,6 @@
 #Run in pypy2 or TLE ;-;
+#Basically what we're doing here is mergesorting the list, and then counting the inversions of the mergesort.
+#Solution by Andrew Xing
 
 import sys
 n = int(sys.stdin.readline())
