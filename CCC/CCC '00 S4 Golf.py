@@ -7,7 +7,7 @@
 #with a 4 meter club, and the DP chart says it takes 5281 hits (impossible) to get to spot 43, then we'll just replace 5281 with
 #(12+1) because it's smaller.
 #
-#Solution by Andrew Xing
+#Solution by Andrew Xing!
 
 distance = input()
 clubs = [input() for x in range(input())] 
