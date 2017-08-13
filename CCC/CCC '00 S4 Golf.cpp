@@ -1,5 +1,6 @@
 //Using DP tables, really disgusting method. I literally had no idea what I was doing, and I magically got the answer.
-//What the heck.
+//What the heck. Literally did not know what I did right. Just randomly sorted things and reversed them. wow.
+//Go to the python solution, it's much better (and it's fixed).
 //Solution by Andrew Xing
 
 #include <iostream>
