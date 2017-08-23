@@ -1,3 +1,11 @@
+//I just felt this was easier to code in C++
+//The nature of this problem is to look below your index. We find the minimum value between the box directly below
+//the box below and left, and the box below and right. Then, the value for our current box is the minimum + 1. 
+//In a roundabout way, that is how many triangles we can "fit" in and under this index. So uhh, then we sum all the
+//values inside our table, and voila, that's the answer.
+
+//Solution by Andrew Xing
+
 #include <iostream> 
 #include <algorithm>
 using namespace std;
