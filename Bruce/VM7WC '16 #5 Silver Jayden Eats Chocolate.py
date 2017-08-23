@@ -1,3 +1,5 @@
+#Solution by Andrew Xing
+
 n = input()
 piece = list(map(int, raw_input().split()))
 
