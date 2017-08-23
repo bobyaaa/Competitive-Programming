@@ -1,4 +1,4 @@
-//Solution by Andrew Xing
+#Solution by Andrew Xing
 
 import sys
 
