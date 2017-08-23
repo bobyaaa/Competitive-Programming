@@ -1,5 +1,5 @@
-#Finding maximum amount of routes without cat, so we gotta make this grid counter thing (math)
-#Nvm that's not the best way to do it
+#Solution by Andrew Xing
+#First we figure out how many paths are available on a no cage grid. Next we try it with cages (with them being value 0)
 
 dimensions = raw_input().split()
 for x in range(2):
