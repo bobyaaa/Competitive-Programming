@@ -1,3 +1,6 @@
+//I'm not 100% sure how this works myself, but working backwards is the key to this problem. Divide by the lowest number possible that
+//is not the number 1, and if your number is prime, then just accept it.
+
 #include <iostream>
 using namespace std;
 
