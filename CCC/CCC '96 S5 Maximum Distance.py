@@ -1,3 +1,6 @@
+#Question is a little hard to understand, but a brute force algorithm will pass.
+#By Andrew Xing
+
 n = input()
 x_list = []
 y_list = []
